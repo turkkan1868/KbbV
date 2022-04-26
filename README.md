@@ -1,4 +1,4 @@
-# Selamlar <img src="hi.gif" width="30px">
+# Selamlar <img src="https://www.hareketligifler.net/data/media/1645/el-sallama-hareketli-resim-0077.gif" width="30px">
 
 Uzun süredir yapmak istediğim bir projeyi paylaşıyorum ama henüz tamamlanmadı :) 
 
